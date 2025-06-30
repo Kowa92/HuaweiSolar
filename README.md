@@ -83,3 +83,5 @@ A good starting point to learn how to use the low level interface is to look at 
 The initial implementation of v1 was done by [@Emilv2](https://gitlab.com/Emilv2/huawei-solar/-/tree/1.1.0).
 
 Subsequent development on v2 was done by [@wlcrs](https://github.com/wlcrs/huawei_solar).
+
+**⇒** Forked directly from [@Emilv2](https://gitlab.com/Emilv2/huawei-solar/-/tree/master).
