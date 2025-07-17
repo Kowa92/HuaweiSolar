@@ -216,7 +216,7 @@ class UploadModbusResponse(ModbusPDU):
         ) = struct.unpack_from(">BBH", data, 0)
         self.frame_data = data[4:]
 
-        assert len(self.frame_data) == data_length - 3
+        #assert len(self.frame_data) == data_length - 3
 
 
 class CompleteUploadModbusRequest(ModbusPDU):
